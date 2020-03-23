@@ -1,7 +1,9 @@
 <template>
   <div>
     <h1>Oops !</h1>
-    <h3>THe {{ resource }} you are looking for is not here.</h3>
+    <h3>
+      The {{ resource ? resource : 'page' }} you are looking for is not here.
+    </h3>
     <router-link :to="{ name: 'event-list' }">
       Back to the home pate
     </router-link>
@@ -13,7 +15,7 @@ export default {
   props: {
     resource: {
       type: String,
-      required: true
+      required: false
     }
   }
 }
