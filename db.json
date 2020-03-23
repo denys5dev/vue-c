@@ -139,6 +139,25 @@
       "time": "17:00",
       "attendees": [],
       "title": "test3"
+    },
+    {
+      "id": 12432,
+      "user": {
+        "id": "2342wwd",
+        "name": "Adam"
+      },
+      "category": "",
+      "organizer": {
+        "id": "2342wwd",
+        "name": "Adam"
+      },
+      "titie": "",
+      "description": "asdfasdfasdf",
+      "location": "asdfasdf",
+      "date": "2020-03-04T12:05:00.000Z",
+      "time": "17:00",
+      "attendees": [],
+      "title": "asdfasdf"
     }
   ]
 }
