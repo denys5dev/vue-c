@@ -120,6 +120,25 @@
       "time": "18:00",
       "attendees": [],
       "title": "asdf"
+    },
+    {
+      "id": 9027,
+      "user": {
+        "id": "2342wwd",
+        "name": "Adam"
+      },
+      "category": "sustainability",
+      "organizer": {
+        "id": "2342wwd",
+        "name": "Adam"
+      },
+      "titie": "",
+      "description": "test",
+      "location": "test",
+      "date": "2020-03-04T11:08:00.000Z",
+      "time": "17:00",
+      "attendees": [],
+      "title": "test3"
     }
   ]
 }
